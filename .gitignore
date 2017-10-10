@@ -1,2 +1,8 @@
 target
+
 .idea
+*.iml
+.project
+
+.gradle
+build/
